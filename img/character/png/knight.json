@@ -1,0 +1,92 @@
+{"frames": {
+
+"rollSequence0000.png":
+{
+    "frame": {"x":0,"y":0,"w":587,"h":707},
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": {"x":0,"y":0,"w":587,"h":707},
+    "sourceSize": {"w":587,"h":707}
+},
+"rollSequence0001.png":
+{
+    "frame": {"x":587,"y":0,"w":587,"h":707},
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": {"x":0,"y":0,"w":587,"h":707},
+    "sourceSize": {"w":587,"h":707}
+},
+"rollSequence0002.png":
+{
+    "frame": {"x":1174,"y":0,"w":587,"h":707},
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": {"x":0,"y":0,"w":587,"h":707},
+    "sourceSize": {"w":587,"h":707}
+},
+"rollSequence0003.png":
+{
+    "frame": {"x":0,"y":707,"w":587,"h":707},
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": {"x":0,"y":0,"w":587,"h":707},
+    "sourceSize": {"w":587,"h":707}
+},
+"rollSequence0004.png":
+{
+    "frame": {"x":587,"y":707,"w":587,"h":707},
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": {"x":0,"y":0,"w":587,"h":707},
+    "sourceSize": {"w":587,"h":707}
+},
+"rollSequence0005.png":
+{
+    "frame": {"x":1174,"y":707,"w":587,"h":707},
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": {"x":0,"y":0,"w":587,"h":707},
+    "sourceSize": {"w":587,"h":707}
+},
+"rollSequence0006.png":
+{
+    "frame": {"x":1761,"y":0,"w":587,"h":707},
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": {"x":0,"y":0,"w":587,"h":707},
+    "sourceSize": {"w":587,"h":707}
+},
+"rollSequence0007.png":
+{
+    "frame": {"x":1761,"y":707,"w":587,"h":707},
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": {"x":0,"y":0,"w":587,"h":707},
+    "sourceSize": {"w":587,"h":707}
+},
+"rollSequence0008.png":
+{
+    "frame": {"x":0,"y":1414,"w":587,"h":707},
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": {"x":0,"y":0,"w":587,"h":707},
+    "sourceSize": {"w":587,"h":707}
+},
+"rollSequence0009.png":
+{
+    "frame": {"x":587,"y":1414,"w":587,"h":707},
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": {"x":0,"y":0,"w":587,"h":707},
+    "sourceSize": {"w":587,"h":707}
+}},
+"meta": {
+    "app": "http://www.texturepacker.com",
+    "version": "1.0",
+    "image": "knight.png",
+    "format": "RGBA8888",
+    "size": {"w":2348,"h":2121},
+    "scale": "3",
+    "smartupdate": "$TexturePacker:SmartUpdate:2f213a6b451f9f5719773418dfe80ae8$"
+}
+}
